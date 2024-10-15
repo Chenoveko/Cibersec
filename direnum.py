@@ -1,4 +1,4 @@
-
+# python3 direnum.py [ip]
 import requests
 import sys
 
